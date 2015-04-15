@@ -1,0 +1,17 @@
+{
+  "name": "mithril-autocompletion",
+  "version": "0.0.0",
+  "homepage": "https://github.com/vikbert/mithril-autocompletion",
+  "authors": [
+    "Vikbert"
+  ],
+  "description": "vikbert first mithril application",
+  "keywords": [
+    "mithril",
+    "autocompletion"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "mithril": "git://github.com/lhorie/mithril.js.git"
+  }
+}
